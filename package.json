@@ -18,10 +18,10 @@
 	"license": "MIT",
 	"author": "mrahmadawais",
 	"dependencies": {
-		"request": "^2.85.0"
+		"request": "^2.88.2"
 	},
 	"devDependencies": {
-		"release-it": "^7.4.0"
+		"release-it": "^7.6.3"
 	},
 	"scripts": {
 		"release": "release-it"
